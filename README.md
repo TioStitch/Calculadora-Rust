@@ -1,2 +1,1 @@
-# Calculadora-Rust
-Uma simples calculadora em Rust para treinar os meus conhecimentos na linguagem.
+Uma simples calculadora em Rust para testar o meu conhecimento na linguagem, atualmente eu estou estudando sua documentação para ter melhores resultados e aplicar ela no dia a dia, assim como outras linguagens nas quais eu sou formado ou tenho um domínio maior.
